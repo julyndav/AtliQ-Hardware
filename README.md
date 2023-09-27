@@ -12,3 +12,6 @@ The goal is to segment the customer data on various metrics and create an action
 Link to the Tableau dashboard:
 
 Link to Decomposition Plan:
+
+<p></p>
+<i> *Note:  TTWC is a fictional company.  This entire analysis was done for course project completion to simulate real-world work environment.</i>
