@@ -1,5 +1,15 @@
 # AtliQ-Hardware
 ### AtliQ Hardware Customer Analysis
+#### Table of Contents:
+[Tableau Dashboard](https://public.tableau.com/app/profile/julynda.vaughn/viz/AtliQCustomerAnalysisv6_2/AtliQCustomerDemographics)
+
+[Project Visualizations](https://github.com/julyndav/AtliQ-Hardware/tree/main/Analysis%20Images)
+
+[AtliQ Decomposition Plan](https://github.com/julyndav/AtliQ-Hardware/blob/main/AtliQ%20Decomposition%20Plan%20Project.pdf)
+
+[Jupyter Notebook](https://github.com/julyndav/AtliQ-Hardware/blob/main/AtliQ%20Customer%20Analysis%20Final.ipynb)
+
+
 
 #### AtliQ Project Analysis Plan 
 
@@ -9,7 +19,7 @@ During the Customer Analysis, customer segmentation will be used to understand t
 
 The goal is to segment the customer data on various metrics and create an actionable dashboard. This will allow AtliQ to gain a better understanding of their customers' habits and possibly give insight on new, potential markets.
 
-Link to the Tableau dashboard: https://public.tableau.com/app/profile/julynda.vaughn/viz/AtliQCustomerAnalysisv6_2/AtliQCustomerDemographics
+
 
 <p></p>
 <i> *Note:  TTWC is a fictional company.  This entire analysis was done for course project completion to simulate real-world work environment.</i>
