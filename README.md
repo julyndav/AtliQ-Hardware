@@ -20,8 +20,7 @@ During the Customer Analysis, customer segmentation will be used to understand t
 To help with the intial analysis we used software for get a visual of the dataset tables and how they relate to each other.
 ![Table Relationships](https://github.com/julyndav/AtliQ-Hardware/blob/main/Analysis%20Images/Database%20flowchart.png)
 
-The goal is to segment the customer data on various metrics and create an actionable dashboard. This will allow AtliQ to gain a better understanding of their customers' habits and possibly give insight on new, potential markets. Here is a snapshot of the interactive dashboard:
-
+The goal is to segment the customer data on various metrics and create an actionable dashboard. This will allow AtliQ to gain a better understanding of their customers' habits and possibly give insight on new, potential markets. 
 
 
 
