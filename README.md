@@ -20,6 +20,11 @@ The TTWC team assigned to AtliQ will conduct the necessary research, and create 
 
 During the Customer Analysis, customer segmentation will be used to understand the purchasers and gain an understanding on more effective sales, marketing, and personalization strategies. Each segment can answer a myriad of questions that the company may have. To further help with the segmentation, we will connect the customers to the products and sales data to give a better overview of the customer focused analysis.  
 
+To really embrace the real-world feel and to set good habits, the decomposition plan was created as if I was an actual Analyst for TTWC.  Below is a snippet of the decomposition plan, you can see the entire plan from the link in the Table of Contents. 
+
+![Decomposition Plan](https://github.com/julyndav/AtliQ-Hardware/blob/main/readmepics/decomp.png)
+<br>
+<br></br>
 ### To help with the intial analysis we used software for get a visual of the dataset tables and how they relate to each other.
 ![Table Relationships](https://github.com/julyndav/AtliQ-Hardware/blob/main/Analysis%20Images/Database%20flowchart.png)
 
