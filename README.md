@@ -40,8 +40,6 @@ The goal is to segment the customer data on various metrics and create an action
 <hr style="border:2px solid black">
 <br></br>
 
-
-
 ### SQLite required to connect to the supplied database:
 ![Database Connection](https://github.com/julyndav/AtliQ-Hardware/blob/main/readmepics/dbase%20connection.png)
 
@@ -50,6 +48,20 @@ The goal is to segment the customer data on various metrics and create an action
 ![Import Libraries](https://github.com/julyndav/AtliQ-Hardware/blob/main/readmepics/libraries.png)
 
 <br>
+<hr style="border:2px solid black">
+<br></br>
+
+## Analysis Process:
+1. Data cleaning and processing
+2. Geographic segmentation: <i>(used SQL to group the database tables)</i>
+   <blockquote> Some good questions to ask are:<br>
+                What areas have the most customers?<br>
+                How many customers are there in total?
+                What countries contain AtliQ customers?</blockquote>
+3. Cohort Analysis with Churn rate
+
+Project analysis was closed out with an overall conclusion and insights on the loyalty of the company's customer base.  From the 2019 data (the last year data was collected), AtliQ retrained 76% of it's customer base. Customer trends and purchasing behaviors for the 5 year time line were also analyized to give the company better insights on successful market regions and which products helped boost revenue.  
+<br></br>
 <hr style="border:2px solid black">
 <br></br>
 
