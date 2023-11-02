@@ -1,6 +1,6 @@
-# AtliQ-Hardware
-### AtliQ Hardware Customer Analysis
-#### Table of Contents:
+# AtliQ-Hardware Project
+
+### Table of Contents:
 [Tableau Dashboard](https://public.tableau.com/app/profile/julynda.vaughn/viz/AtliQCustomerAnalysisv6_2/AtliQCustomerDemographics)
 
 [Project Visualizations](https://github.com/julyndav/AtliQ-Hardware/tree/main/Analysis%20Images)
@@ -8,9 +8,12 @@
 [AtliQ Decomposition Plan](https://github.com/julyndav/AtliQ-Hardware/blob/main/AtliQ%20Decomposition%20Plan%20Project.pdf)
 
 [Jupyter Notebook](https://github.com/julyndav/AtliQ-Hardware/blob/main/AtliQ%20Customer%20Analysis%20Final.ipynb)
+<br>
+<br>
+<br>
 
 
-
+### AtliQ Hardware Customer Analysis
 #### AtliQ Project Analysis Plan 
 
 The TTWC team assigned to AtliQ will conduct the necessary research, and create informative dashboards that AtliQ will be able to use later. Certain sections of the TTWC team will select one of the three above areas to focus on. My team is responsible for Customer Analysis. 
@@ -27,3 +30,7 @@ The goal is to segment the customer data on various metrics and create an action
 
 <p></p>
 <i> *Note:  TTWC is a fictional company.  This entire analysis was done for course project completion to simulate real-world work environment.</i>
+<br>
+<br>
+### Required Project Libraries:
+
