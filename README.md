@@ -38,7 +38,6 @@ The goal is to segment the customer data on various metrics and create an action
 <br>
 <br>
 <hr style="border:2px solid black">
-<br></br>
 
 ### SQLite required to connect to the supplied database:
 ![Database Connection](https://github.com/julyndav/AtliQ-Hardware/blob/main/readmepics/dbase%20connection.png)
@@ -49,7 +48,6 @@ The goal is to segment the customer data on various metrics and create an action
 
 <br>
 <hr style="border:2px solid black">
-<br></br>
 
 ## Analysis Process:
 1. Data cleaning and processing
